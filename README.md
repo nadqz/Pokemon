@@ -14,7 +14,9 @@
 7. Pointers
 8. Void
 9. Matriks
+
 <br/>
+
 ### Custom Data Types
 1. Struct
 2. Class
