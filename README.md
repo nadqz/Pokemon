@@ -1,7 +1,7 @@
 # Pokemon
 'Pokemon' is just a reference to the game created here, more related to its concept, which resembles the typical 2D games. The programming language used is very basic, which is C#, and the display is generated solely from the C# compiler itself.
 
-
+![alt_txt](https://github.com/nadqz/Pokemon/blob/main/Display/Hogwatrs.png)
 
 ## Data Types Applied
 ### Special Data Types
